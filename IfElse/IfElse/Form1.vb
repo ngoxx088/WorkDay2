@@ -16,7 +16,7 @@ Public Class Form1
         Else
             largerNum = num2
         End If
-        txtResult.Text = "The larger number is " & largerNum
+        txtResult.Text = "The larger number is: " & largerNum
     End Sub
 
 End Class
